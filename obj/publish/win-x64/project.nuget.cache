@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjMOZsjuWfI=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Cs\\MalChan\\MalChan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Osama\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.16\\microsoft.net.illink.tasks.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

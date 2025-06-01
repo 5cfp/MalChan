@@ -1,0 +1,17 @@
+C:\Dev\Cs\MalChan\bin\Release\net8.0-windows\win-x64\MalChan.exe
+C:\Dev\Cs\MalChan\bin\Release\net8.0-windows\win-x64\MalChan.deps.json
+C:\Dev\Cs\MalChan\bin\Release\net8.0-windows\win-x64\MalChan.runtimeconfig.json
+C:\Dev\Cs\MalChan\bin\Release\net8.0-windows\win-x64\MalChan.dll
+C:\Dev\Cs\MalChan\bin\Release\net8.0-windows\win-x64\MalChan.pdb
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.Form1.resources
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.Properties.Resources.resources
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.csproj.GenerateResource.cache
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.AssemblyInfoInputs.cache
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.AssemblyInfo.cs
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.csproj.CoreCompileInputs.cache
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.dll
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\refint\MalChan.dll
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.pdb
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\MalChan.genruntimeconfig.cache
+C:\Dev\Cs\MalChan\obj\Release\net8.0-windows\win-x64\ref\MalChan.dll

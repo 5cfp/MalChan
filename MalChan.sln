@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalChan", "MalChan.csproj", "{A94C86F0-6B23-48A4-981E-9FA3DD2CB8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94C86F0-6B23-48A4-981E-9FA3DD2CB8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94C86F0-6B23-48A4-981E-9FA3DD2CB8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94C86F0-6B23-48A4-981E-9FA3DD2CB8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94C86F0-6B23-48A4-981E-9FA3DD2CB8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DABB4A6-A447-494C-A56F-B0CCC744584E}
+	EndGlobalSection
+EndGlobal
